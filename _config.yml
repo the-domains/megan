@@ -1,0 +1,28 @@
+name: megan
+favicon: null
+layout_spectrum: 0.6673215357586741
+typography_spectrum: 0.41426
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#0180d1'
+    - '#18181a'
+    - '#d5d4da'
+    - '#8c8d91'
+    - '#ce9f02'
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.1875
+  rhythmicContrast: 0.75
+purpose: []
