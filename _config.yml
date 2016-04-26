@@ -1,7 +1,7 @@
 name: megan
 favicon: null
-layout_spectrum: 0.6673215357586741
-typography_spectrum: 0.41426
+layout_spectrum: 0.87996
+typography_spectrum: 0.44313
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0180d1'
-    - '#18181a'
-    - '#d5d4da'
-    - '#8c8d91'
-    - '#ce9f02'
-  brandStrength: 0.5
-  lightness: 0.25
-  saturation: 0.1875
+    - '#e6ebf1'
+    - '#f04a4c'
+    - '#000000'
+    - '#a22239'
+    - '#5b6064'
+  brandStrength: 0.875
+  lightness: 0.875
+  saturation: 0.6875
   rhythmicContrast: 0.75
 purpose: []
