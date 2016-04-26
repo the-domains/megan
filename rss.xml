@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[megan]]></title>
         <description><![CDATA[megan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/megan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 16:03:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 03:32:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/megan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc6da8fe-02c6-4f86-8eee-857ce39a3a00.jpg">]]></description>
-            <link>undefined3b6d0ad8-ff37-4e54-baf4-708a9e859dbc/index.html</link>
+            <title><![CDATA[I'm Testing Grio.io, Here's What It's Like So Far...]]></title>
+            <description><![CDATA[<article><h1>I'm Testing Grio.io, Here's What It's Like So Far...</h1><p>Seems pretty intuitive, but I'm curious how this all integrates with the traditional web publishing experience. What about all the widgets, and stacks and integrations that everyone else seems to be touting?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4afc877-1d23-41ff-915c-a1cb1b09c356.jpg"></article>]]></description>
+            <link>https://thegrid.ai/megan/3b6d0ad8-ff37-4e54-baf4-708a9e859dbc/index.html</link>
             <guid isPermaLink="false">3b6d0ad8-ff37-4e54-baf4-708a9e859dbc</guid>
-            <pubDate>Fri, 29 Jan 2016 16:03:41 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 03:32:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
